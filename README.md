@@ -13,8 +13,8 @@ represents the total number of streams on Spotify.
 
 ## Project Structure
 - `Spotify_Predictive_Model.ipynb`: Jupyter notebook containing the data analysis, model building, and evaluation.
-- `data/`: Directory containing the dataset used in the project. Due to size constraints, only a sample of the dataset (`spotify-2023.csv`) is included here.
-- `docs/`: Documentation of the methodology, models, and findings.
+- `Data/`: Directory containing the dataset used in the project. Due to size constraints, only a sample of the dataset (`spotify-2023.csv`) is included here.
+- `Report/`: Documentation of the methodology, models, and findings.
 - `scripts/`: Any additional scripts used for data preprocessing, analysis, etc.
 - `requirements.txt`: A list of Python packages required to run the project.
 
