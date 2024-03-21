@@ -1,4 +1,4 @@
-# nalyzing Spotify Tracks for Next Big Hit
+# Analyzing Spotify Tracks for Next Big Hit
 
 ## Introduction
 This project aims to develop predictive models to forecast the success of tracks on Spotify. It leverages a comprehensive dataset containing various attributes of tracks released on the platform up to 2023, including artist information, release dates, presence in playlists, streams, and musical features like danceability, energy, and valence.
